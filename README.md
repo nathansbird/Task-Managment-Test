@@ -12,12 +12,12 @@ The web app should be able to perform CRUD operations on a task list, store data
 - List existing todo items
 - Update existing items
 - Delete items
+- Search functionality
 - Use a separate CSS (or SASS) stylesheet for styling
 
-### Optional (3 or more recommended)
+### Additional (Pick 3)
 - Password authentication
 - Use SASS for styling
-- Task search functionality
 - Live refresh on task changes
 - Deploy the app on Heroku
 - Use Redux for app-level state management
